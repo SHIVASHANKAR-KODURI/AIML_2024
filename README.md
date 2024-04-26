@@ -6,3 +6,5 @@
 [LAB_05](https://github.com/SHIVASHANKAR-KODURI/AIML_2024/blob/main/Lab-05.ipynb)
 [LAB_06](https://github.com/SHIVASHANKAR-KODURI/AIML_2024/blob/main/Lab-07.ipynb)
 [LAB_07](https://github.com/SHIVASHANKAR-KODURI/AIML_2024/blob/main/Lab-07.ipynb)
+[LAB_08](https://github.com/SHIVASHANKAR-KODURI/AIML_2024/blob/main/LAB08.ipynb)
+[LAB_09](https://github.com/SHIVASHANKAR-KODURI/AIML_2024/blob/main/LAB09.ipynb)
